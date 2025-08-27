@@ -1,5 +1,5 @@
 #  About Me:
-Hello , this is Hikmat , and this my portfolio<br>I'm currently working on several projects about different topics<br>but essentially web development and machine learning
+Hello , this is Hikmat , and this my portfolio<br>I'm currently working on several projects about different topics<br>but essentially backend development and machine learning
 
 
 ## 🌐 Socials:
